@@ -1,0 +1,45 @@
+body {
+    background: #D5E1EF;
+    margin: 0;
+    padding: 0;
+    font-family: 'Outfit', sans-serif;
+    max-width: 1440px;
+}
+
+img {
+    max-width: 288px;
+    display: block;
+    border-radius: 10px;
+}
+
+.titulo {
+    font-size: 22px;
+    font-weight: bold;
+    color: hsl(218, 44%, 22%);
+    padding: 0 18px;
+}
+
+.texto {
+    font-weight: 300;
+    color: hsl(220, 15%, 55%);
+    font-size: 15px;
+    padding: 0 18px;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-items: center;
+    align-items: center;
+}
+
+.conteudo {
+    width: 288px;
+    background: #fff;
+    text-align: center;
+    padding: 15px;
+    border-radius: 10px;
+    filter: drop-shadow(0 0 10px rgba(1,10,20,0.1));
+}

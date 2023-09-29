@@ -2,15 +2,6 @@
 
 Este é um projeto que resolve o desafio do [Product Preview Card Component no Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Os desafios do Frontend Mentor ajudam a melhorar habilidades de codificação, construindo projetos realistas.
 
-## Sumário
-
-- [Visão geral](#visão-geral)
-  - [O desafio](#o-desafio)
-  - [Captura de tela](#captura-de-tela)
-- [Meu processo](#meu-processo)
-  - [Construído com](#construído-com)
-  - [O que aprendi](#o-que-aprendi)
-
 ## Visão geral
 
 ### O desafio
@@ -19,10 +10,6 @@ Os usuários devem ser capazes de:
 
 - Visualizar o layout ideal dependendo do tamanho da tela do dispositivo
 - Ver estados de foco e hover para elementos interativos
-
-### Captura de tela
-
-![Captura de tela do projeto](./final_desktop.png) ![Captura de tela do projeto](./final_mobile.png)
 
 ## Meu processo
 

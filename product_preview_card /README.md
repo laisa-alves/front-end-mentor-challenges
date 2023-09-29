@@ -22,8 +22,7 @@ Os usuários devem ser capazes de:
 
 ### Captura de tela
 
-![Captura de tela do projeto](./final_desktop.png)
-![Captura de tela do projeto](./final_mobile.png)
+![Captura de tela do projeto](./final_desktop.png) ![Captura de tela do projeto](./final_mobile.png)
 
 ## Meu processo
 
